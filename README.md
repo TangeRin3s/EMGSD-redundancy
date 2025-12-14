@@ -14,14 +14,17 @@ All scripts executed without modification after environment reconstruction.
 
 Requirements.txt and environment.yml are provided.
 
-## 3. Reproducing Baseline Results (±5%)
+## 3. Reproducing Baseline Results
 
 To validate replication quality, I re-trained the baseline ALBERT-V2 stereotype classifier on the original EMGSD dataset. Besides, To show small-scale training works, I train a
 ALBERT-V2 model and a xlm-roberta-base model in a small dataset with only 5000 samples.
 
-My results vs original results(Evaluate on EMGSD)
-Metric	Original (Paper)	ALBERT-V2 xlm-roberta-base
-Macro-F1	81.5%	82% 82%
+### My results vs Original results (Evaluate on EMGSD)
+
+| Metric    | Original (Paper) | ALBERT-V2 | XLM-RoBERTa-base |
+|-----------|------------------|-----------|------------------|
+| Macro-F1  | 81.5%            | 82%       | 82%              |
+
 
 
 
