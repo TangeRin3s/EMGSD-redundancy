@@ -75,6 +75,10 @@ Ploting illustrations to show the redundancy fo EMGSD.<br>
 
 Conducting Shap and Lime analysis of model.<br>
 
+## 5. Poster
+<img width="1528" height="1061" alt="image" src="https://github.com/user-attachments/assets/8feec6df-ba82-4bfd-970d-67fef46d286a" />
+
+
 
 
 
