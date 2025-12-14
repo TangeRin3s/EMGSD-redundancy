@@ -1,3 +1,11 @@
+# A project for UCL Course COMP0173 AI for sustainable development.
+
+Aiming to show the redundancy of EMGSD dataset and the feasibility of small-scale training models.
+
+Original paper: HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection - https://arxiv.org/abs/2409.11579
+
+Original github repository: https://github.com/holistic-ai/HEARTS-Text-Stereotype-Detection
+
 ## 1. Baseline Replication
 
 To ensure methodological rigor, I fully replicated the baseline stereotype classification pipeline from the HEARTS framework.
@@ -34,15 +42,19 @@ Here are two illustrations of model performances.
 Here are introductions for important files.<br>
 
 1, BERT_Models_Fine_Tuning.ipynb<br>
+
 Where ALBERT-V2 models and xlm-roberta-base models are trained.<br>
 
 2, Translate.ipynb<br>
+
 Show How to use Chatgpt to translate a sampled dataset from MGSD to Chinese and Japanese.<br>
 
 3, redundancy.ipynb<br>
+
 Ploting illustrations to show the redundancy fo EMGSD.<br>
 
 4, SHAP_LIME_Analysis.py<br>
+
 Conducting Shap and Lime analysis of model.<br>
 
 
