@@ -36,13 +36,13 @@ Here are introductions for important files.<br>
 1, BERT_Models_Fine_Tuning.ipynb<br>
 Where ALBERT-V2 models and xlm-roberta-base models are trained.<br>
 
-2, translate.ipynb<br>
+2, Translate.ipynb<br>
 Show How to use Chatgpt to translate a sampled dataset from MGSD to Chinese and Japanese.<br>
 
 3, redundancy.ipynb<br>
 Ploting illustrations to show the redundancy fo EMGSD.<br>
 
-4,SHAP_LIME_Analysis.py<br>
+4, SHAP_LIME_Analysis.py<br>
 Conducting Shap and Lime analysis of model.<br>
 
 
