@@ -29,6 +29,21 @@ Here are two illustrations of model performances.
 <img width="1028" height="724" alt="image" src="https://github.com/user-attachments/assets/ccd61d0c-5401-4f32-8668-c638c75d2ee3" />
 <img width="922" height="657" alt="image" src="https://github.com/user-attachments/assets/53a51c57-20c4-4fa6-a407-8b7e68e9a4ce" />
 
+## 4. Reproducible Code & Notebooks
+
+Here are introductions for important files.
+
+1, BERT_Models_Fine_Tuning.ipynb
+Where ALBERT-V2 models and xlm-roberta-base models are trained.
+
+2, translate.ipynb
+Show How to use Chatgpt to translate a sampled dataset from MGSD to Chinese and Japanese.
+
+3, redundancy.ipynb
+Ploting illustrations to show the redundancy fo EMGSD.
+
+4,SHAP_LIME_Analysis.py
+Conducting Shap and Lime analysis of model.
 
 
 
