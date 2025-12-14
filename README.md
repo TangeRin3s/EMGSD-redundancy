@@ -53,6 +53,10 @@ Here are two illustrations of model performances.
 
 ## 4. Reproducible Code & Notebooks
 
+To ensure experimental reproducibility, all experiments were conducted with a fixed random seed:
+
+- **Random seed:** 42
+
 Here are introductions for important files.<br>
 
 1, BERT_Models_Fine_Tuning.ipynb<br>
