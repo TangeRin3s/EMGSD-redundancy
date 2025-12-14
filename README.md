@@ -1,6 +1,6 @@
 # A project for UCL Course COMP0173 AI for sustainable development.
 
-Aiming to show the redundancy of EMGSD dataset and the feasibility of small-scale training models.
+Aiming to show the redundancy of EMGSD dataset and the feasibility of small-scale training models and multi-lingul models.
 
 Original paper: HEARTS: A Holistic Framework for Explainable, Sustainable and Robust Text Stereotype Detection - https://arxiv.org/abs/2409.11579
 
