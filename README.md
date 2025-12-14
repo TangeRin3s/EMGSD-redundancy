@@ -6,6 +6,20 @@ Original paper: HEARTS: A Holistic Framework for Explainable, Sustainable and Ro
 
 Original github repository: https://github.com/holistic-ai/HEARTS-Text-Stereotype-Detection
 
+## Relation to SDGs
+
+• **SDG 12 – Responsible Consumption & Production:**  
+Lower energy use and model carbon footprints, supporting AI development aligned with sustainable consumption of digital resources.
+
+• **SDG 9 – Industry, Innovation & Infrastructure:**  
+Reduce costs, making models accessible to low-resource institutions and supporting equitable AI innovation.
+
+• **SDG 10 – Reduced Inequalities:**  
+Enable stereotype detection across groups and languages, helping mitigate social and linguistic inequalities.
+
+
+
+
 ## 1. Baseline Replication
 
 To ensure methodological rigor, I fully replicated the baseline stereotype classification pipeline from the HEARTS framework.
