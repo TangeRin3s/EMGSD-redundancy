@@ -10,7 +10,7 @@ from scipy.stats import pearsonr
 from scipy.spatial.distance import jensenshannon
 
 file_path = 'full_results_albertv2.csv'
-model_path = "holistic-ai/bias_classifier_albertv2"
+model_path = "holistic-ai/bias_classifier_albertv2" # or you own model path here
 
 # Select the random sample of observations to use methods on
 def sample_observations(file_path, k, seed):
