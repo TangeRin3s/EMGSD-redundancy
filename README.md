@@ -25,6 +25,12 @@ ALBERT-V2 model and a xlm-roberta-base model in a small dataset with only 5000 s
 |-----------|------------------|-----------|------------------|
 | Macro-F1  | 81.5%            | 82%       | 82%              |
 
+Here are two illustrations of model performances.
+<img width="1028" height="724" alt="image" src="https://github.com/user-attachments/assets/ccd61d0c-5401-4f32-8668-c638c75d2ee3" />
+<img width="922" height="657" alt="image" src="https://github.com/user-attachments/assets/53a51c57-20c4-4fa6-a407-8b7e68e9a4ce" />
+
+
+
 
 
 
